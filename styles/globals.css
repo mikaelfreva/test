@@ -24,3 +24,12 @@ a {
     background: black;
   }
 }
+
+
+.load{
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+  background-color: blue;
+}
